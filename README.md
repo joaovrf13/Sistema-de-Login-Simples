@@ -47,7 +47,7 @@ Além do que foi proposto no exercício, tomei a iniciativa de criar uma interfa
 ##
 3. Configure a conexão com o banco:
 
-    Verifique as credenciais do banco no arquivo de conexão PHP (geralmente conexao.php).
+    Verifique as credenciais do banco no arquivo de conexão PHP.
 
 ##
 4. Execute o projeto:
