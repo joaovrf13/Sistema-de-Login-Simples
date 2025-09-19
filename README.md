@@ -41,7 +41,7 @@ Além do que foi proposto no exercício, tomei a iniciativa de criar uma interfa
 ##
 2. Importe o banco de dados:
 
-    •No seu MySQL (via phpMyAdmin ou outro), importe o arquivo banco.sql (caso exista no projeto).
+    •No seu MySQL (via phpMyAdmin ou outro), importe o arquivo banco.sql.
 
     •Ou crie uma tabela com os campos básicos: id, usuario, senha.
 ##
